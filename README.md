@@ -2,7 +2,10 @@
 ## Quantitative veterinary epidemiology and disease ecology lab
 ==============================
 
-Text summarizing your project.
+We used code to tell R to upload the Hummingbird file after which we were able to organize the data using code.  We were able to organize the data by rehab center location and counts of those that survived (were released) and those that died.  We were also able to use the code to create graphs/charts/plots on the data.  Finally we were able to use code to merge species and compare different hummingbird species survival rates.  Again we used code to plot this data. 
+The main features we used were modeling data, grouping data, and plotting/graphing data.  With these we were able to make comparisons of the survival outcomes. 
+The code generates outputs of the data which is organized by the set parameters in the code such as rehab center or species type.  It also gives dates, times seasons, etc. The code also generates graphical and table outputs. 
+
 
 ## Project Organization
 ------------
